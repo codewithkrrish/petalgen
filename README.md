@@ -27,7 +27,7 @@ I kept seeing generative-art toys that needed npm, a canvas, and twenty minutes 
 ## Install
 
 ```bash
-pip install petalgen
+pip install git+https://github.com/codewithkrrish/petalgen.git
 ```
 
 Or just clone it — there's nothing to compile and no dependencies to install:
